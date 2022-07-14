@@ -1,0 +1,16 @@
+.heroimg{
+  background-image: url(https://s-media-cache-ak0.pinimg.com/originals/b4/57/71/b45771565193348cf1384be8834fefd2.jpg);
+  background-size: cover;
+  background-position: center ;
+  min-height: 100%;
+  backdrop-filter: black;
+}
+
+.text{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-shadow: 1px 1px 10px 
+  black;
+  font-style: normal;
+  color: rgb(255, 243, 243);
+}
+
